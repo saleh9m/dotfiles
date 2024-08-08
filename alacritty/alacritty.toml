@@ -1,0 +1,18 @@
+live_config_reload = true
+
+[font]
+size = 13
+
+[font.normal]
+style = "Bold"
+
+[window]
+dynamic_padding = false
+opacity = 1
+[window.dimensions]
+columns = 69
+lines = 24
+
+[window.padding]
+x = 10
+y = 10
