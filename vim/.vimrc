@@ -8,7 +8,6 @@ call plug#end()
 colorscheme habamax
 
 set nu
-set relativenumber
 
 set tabstop=4
 set softtabstop=4
